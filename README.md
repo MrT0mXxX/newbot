@@ -3,10 +3,10 @@
 ## For Using This Bot You Need To Subscribe My YouTube Channel.Than Join My Whatsapp group And Send Me Prove I will Give You Access Code.
 ## I'm [MrTomXxX] Also Know As Ratul Hassan                    Facebook Link 🔗        (https://www.facebook.com/MrTomXxX) 👋
 <h1 align="center">
-    <img src="MrTomXxX/3.svg"/>
+    <img src="3.svg"/>
 </h1>
 <a href="#" target="_blank">
-  <img src="MrTomXxX/2.svg" width="1200" alt="Click to see the source" />
+  <img src="2.svg" width="1200" alt="Click to see the source" />
 </a>
 
 # 📰 Talking about Information
@@ -23,7 +23,7 @@
 
 # 📖 Top Langs
 ![](https://i.imgur.com/8wYIQXD.jpeg)
-![Hello](MrTomXxX/1.svg)
+![Hello](1.svg)
 
 
 # 🤝🏻 Connect with Me
@@ -39,6 +39,6 @@
 </p>
 <br>
 <a href="#" target="_blank">
-  <img src="MrTomXxX/4.svg" width="1200" alt="Click to see the source" />
+  <img src="4.svg" width="1200" alt="Click to see the source" />
 </a>  
 </a>
